@@ -40,7 +40,7 @@
     "roots/wordpress": "5.0.3",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/lifterlms":"dev-trunk",
+    "wpackagist-plugin/lifterlms":"3.27.0",
     "wpackagist-plugin/import-users-from-csv-with-meta":"dev-trunk",
     "wpackagist-plugin/wordpress-importer":"dev-trunk"
   },
