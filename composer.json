@@ -41,7 +41,8 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/lifterlms":"dev-trunk",
-    "wpackagist-plugin/import-users-from-csv-with-meta":"dev-trunk"
+    "wpackagist-plugin/import-users-from-csv-with-meta":"dev-trunk",
+    "wpackagist-plugin/wordpress-importer":"dev-trunk"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
